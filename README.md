@@ -1,2 +1,4 @@
-# This is my STAT 330 midterm project
-# Using data from Gapminder, I created a GIF to showcase the change in the relationship between CO2 emissions and life expectancy
+# This is my STAT 330 final project
+# I created a code that can take any Gapminder CSV file and transform it so that it can be merged with an existing Gapminder dataset.
+# This new dataset can display a scatterplot showcasing relationships between any two variables. 
+# The majority of the code is written inside a macro for ease of modification of inputs.
